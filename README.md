@@ -18,9 +18,9 @@ file included: cordic_TB.c -- a test bench using math standard C library,
 	       cordic_fixed_opt_rev3_time_full.s -- modified mutually 
 	       		 exclusive load and move opertions on 
 	       		 ordic_fixed_opt_rev3_time.s.
-	       cordic_fixed_time.o -- the arm-based executable file compiled 
+	       cordic_fixed_time.exe -- the arm-based executable file compiled 
 	          	 from cordic_fixed_time.c.
-	       cordic_fixed_opt_rev3_time.o -- the arm-based executable file 
+	       cordic_fixed_opt_rev3_time.exe -- the arm-based executable file 
 	        	 compiled from cordic_fixed_opt_rev3_time.c.
-	       cordic_fixed_opt_rev3_time_full.o -- the arm-based executable file 
+	       cordic_fixed_opt_rev3_time_full.exe -- the arm-based executable file 
 	        	 compiled from cordic_fixed_opt_rev3_time_full.s.
